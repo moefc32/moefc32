@@ -1,5 +1,8 @@
 # Hi! Need design solutions?
 
+[![Foo](https://komarev.com/ghpvc/?username=moefc32&color=orange&label=Profile+Views)]()
+[![Foo](https://img.shields.io/github/followers/moefc32?label=follow%20me&style=social)](https://github.com/moefc32)
+
 Strong design management professional with a master of management degree, focused in UX from Telkom University.\
 Need help for your design problems? Feel free to [contact me](mailto:hai@mf-chan.com)!
 
