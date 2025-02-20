@@ -7,11 +7,11 @@ Need help for your design problems? Feel free to [contact me](mailto:hai@mf-chan
 
 Website : [https://mf-chan.com/](https://mf-chan.com/)
 
-## Software Stacks
-![Stacks](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,alpinejs,nodejs,npm,pnpm,svelte,vite,electron,md,mysql,mongodb,sqlite,prisma,graphql,firebase,supabase,vscode,postman,docker,cloudflare,notion,git,github,gitlab,nginx,windows,ubuntu,ps,ai,pr,ae,figma)
-
 ## Statistics
 <a href="https://github.com/moefc32"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moefc32&layout=compact&theme=blueberry&langs_count=8" height="200" /></a>
 <a href="https://github.com/moefc32"><img src="https://github-readme-stats.vercel.app/api?username=moefc32&rank_icon=github&layout=compact&theme=blueberry" height="200" /></a>
 
 <sup><sub>FYI, some of my repositories are private, so you can't see those on my activity~</sub></sup> 😉
+
+## Software Stacks
+![Stacks](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,alpinejs,nodejs,npm,pnpm,svelte,vite,electron,md,mysql,mongodb,sqlite,prisma,graphql,firebase,supabase,vscode,postman,docker,cloudflare,notion,git,github,gitlab,nginx,windows,ubuntu,ps,ai,pr,ae,figma)
