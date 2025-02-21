@@ -1,6 +1,6 @@
 # Hi! Need design solutions?
 <a href="https://github.com/moefc32"><img src="https://komarev.com/ghpvc/?username=moefc32&color=orange&label=Profile+Views" height="20" /></a>
-<a href="https://github.com/moefc32"><img src="https://img.shields.io/github/followers/moefc32?label=follow%20me&style=social" height="20" /></a>
+<a href="https://github.com/moefc32"><img src="https://img.shields.io/github/followers/moefc32?label=Follow+Me&style=social" height="20" /></a>
 
 Strong design management professional with a master of management degree, focused in UX from Telkom University.\
 Need help for your design problems? Feel free to [contact me](mailto:hai@mf-chan.com)!
