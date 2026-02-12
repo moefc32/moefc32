@@ -8,8 +8,7 @@ Need help for your design problems? Feel free to [contact me](mailto:hai@mf-chan
 Website : [mf-chan.com](https://mf-chan.com/)
 
 ## Statistics
-<a href="https://github.com/moefc32"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moefc32&layout=compact&theme=blueberry&langs_count=8" height="200" /></a>
-<a href="https://github.com/moefc32"><img src="https://github-readme-stats.vercel.app/api?username=moefc32&rank_icon=github&layout=compact&theme=blueberry" height="200" /></a>
+<a href="https://github.com/moefc32"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moefc32&theme=onedark" height="200" /></a>
 
 FYI, some of my repositories are private, so you can't see those on my activity 😉
 
