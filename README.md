@@ -13,4 +13,4 @@ Website : [mf-chan.com](https://mf-chan.com/)
 FYI, some of my repositories are private, so you can't see those on my activity 😉
 
 ## Software Stacks
-![Stacks](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,alpinejs,nodejs,npm,pnpm,svelte,vite,electron,md,mysql,mongodb,sqlite,prisma,graphql,firebase,supabase,vscode,postman,docker,cloudflare,notion,git,github,gitlab,nginx,windows,ubuntu,ps,ai,pr,ae,figma)
+![Stacks](https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,nodejs,bun,npm,pnpm,svelte,vite,elysia,md,mysql,mongodb,sqlite,prisma,graphql,vscode,postman,docker,cloudflare,notion,git,github,nginx,windows,ubuntu,ps,ai,pr,ae,figma)
